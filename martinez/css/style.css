@@ -8,16 +8,18 @@ h1{
     font-family: initial;
 }
 h3{
-    color: tomato;
+    color: rgb(255, 145, 0);
     text-decoration: none;
     padding: 15px;
     font-size: 40px;
     text-align: center;  
+
 }
 h4{
     text-decoration: none;
-    color: tomato;
+    color: rgb(255, 145, 0);
     padding: 15px;
     font-size: 40px;
     text-align: center;
+
 }
